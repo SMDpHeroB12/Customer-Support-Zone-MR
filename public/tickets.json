@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1001,
+    "title": "Unable to login to account",
+    "description": "Customer reports incorrect password error even after resetting password.",
+    "customer": "John Doe",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "15-Feb-2026"
+  },
+  {
+    "id": 1002,
+    "title": "Payment not processing",
+    "description": "Credit card payments are failing with a 502 error.",
+    "customer": "Alice Smith",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "16-Feb-2026"
+  },
+  {
+    "id": 1003,
+    "title": "App crashing on startup",
+    "description": "Mobile app crashes immediately after launching on Android 14.",
+    "customer": "Michael Brown",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "18-Feb-2026"
+  },
+  {
+    "id": 1004,
+    "title": "Email notifications not received",
+    "description": "Customer is not receiving any system notification emails.",
+    "customer": "Sophia Lee",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "19-Feb-2026"
+  },
+  {
+    "id": 1005,
+    "title": "Feature request: Dark Mode",
+    "description": "Customer requested a dark mode option for better usability.",
+    "customer": "David Johnson",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "20-Feb-2026"
+  },
+  {
+    "id": 1006,
+    "title": "Slow website loading",
+    "description": "Homepage taking more than 10 seconds to load.",
+    "customer": "Emma Wilson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "21-Feb-2026"
+  },
+  {
+    "id": 1007,
+    "title": "Unable to reset password",
+    "description": "Password reset link expired immediately after receiving.",
+    "customer": "Daniel Martinez",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "22-Feb-2026"
+  },
+  {
+    "id": 1008,
+    "title": "Billing discrepancy",
+    "description": "Customer was charged twice for the same subscription.",
+    "customer": "Olivia Taylor",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "23-Feb-2026"
+  },
+  {
+    "id": 1009,
+    "title": "Broken download link",
+    "description": "The installer download link is giving a 404 error.",
+    "customer": "Liam Anderson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "01-Mar-2026"
+  },
+  {
+    "id": 1010,
+    "title": "Chat support not available",
+    "description": "Live chat support option is missing during working hours.",
+    "customer": "Charlotte White",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "02-Mar-2026"
+  }
+]

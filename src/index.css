@@ -1,2 +1,46 @@
 @import "tailwindcss";
 @plugin "daisyui";
+/* fonts from google */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+}
+* {
+  font-family: "Inter", sans-serif;
+}
+.body-color {
+  background-color: #f5f5f5;
+}
+.bg-progress {
+  background-image:
+    url("../src/assets/vector1.png"), url("../src/assets/vector2.png"),
+    linear-gradient(to top left, #9f62f2, #632ee3);
+  background-position: left, right, center;
+  background-repeat: no-repeat;
+  background-size:
+    contain,
+    contain,
+    100% 100%;
+}
+.bg-resolved {
+  background-image:
+    url("../src/assets/vector1.png"), url("../src/assets/vector2.png"),
+    linear-gradient(to top left, #54cf68, #00827a);
+  background-position: left, right, center;
+  background-repeat: no-repeat;
+  background-size:
+    contain,
+    contain,
+    100% 100%;
+}
+.gray-text {
+  color: #627382;
+}
+.dark-1 {
+  color: #34485a;
+}

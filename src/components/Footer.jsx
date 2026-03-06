@@ -5,10 +5,12 @@ import mailImg from "../assets/mail.png";
 
 const Footer = () => {
   return (
-    <footer className="bg-black  text-white pb-10">
-      <div className="px-10 p-10 lg:p-20 grid lg:grid-cols-12 gap-5 ">
+    <footer className="bg-black text-white pb-10 ">
+      <div className="px-5 p-10 lg:p-20 grid lg:grid-cols-12 gap-5 ">
         <div className=" col-span-4 ">
-          <h1 className="font-bold text-2xl mb-4">CS — Ticket System</h1>
+          <h1 className="font-bold text-2xl mb-4">
+            Customer Support - Tickets System
+          </h1>
           <p className="lg:w-[85%] text-justify lg:text-left text-[#a1a1aa]">
             A helpdesk website provides centralized support for customers and
             employees by offering ticket management, knowledge bases, and live
